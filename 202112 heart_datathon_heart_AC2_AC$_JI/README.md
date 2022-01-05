@@ -1,7 +1,7 @@
 # 2021년 의료 해커톤 심장 움직임 인식
 <table>
 <th>
-<img src="./images/poster.jpg" width="300"/>
+<img src="./images/poster.jpg" width="600"/>
 </th>
 </table>
 <img src="./images/HDAI-01.png" width="800"/>
