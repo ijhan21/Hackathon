@@ -3,7 +3,7 @@
 <li>2021년 DMC 빅데이터 아이디어 오디션
 <table>
 <th>
-<a href="http://www.naver.com"><img src="./202110~202111_bigdata-dx_3등_수상/images/poster.png" width="300"/></a>
+<a href="./202110~202111_bigdata-dx_3등_수상"><img src="./202110~202111_bigdata-dx_3등_수상/images/poster.png" width="300"/></a>
 </th>
 <th>
 <img src="./202110~202111_bigdata-dx_3등_수상/images/paper-1.png" width="300"/>
