@@ -1,7 +1,7 @@
 # 2021년 부품 품질 검사 - 부품 스크래치 검사 솔루션
 <table>
 <th>
-<img src="./images/poster.png" width="300"/>
+<img src="./images/poster.jpg" width="300"/>
 </th>
 <th>
 <img src="./images/paper.png" width="300"/>
