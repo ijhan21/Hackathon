@@ -1,5 +1,13 @@
 # Hackathon
-## 임종한 withyou@empal.com
+## 임종한 withyou@empal.com<li>2021년 부품 품질 검사 - 부품 스크래치 검사 솔루션
+<table>
+<th>
+<a href="./202309 Prompt-er Day in Seoul"><img src="./202309 Prompt-erDayInSeoul/prompt-er_day_in_Seoul.jpeg" width="300"/>
+</th>
+<th>
+<a href="./202309 Prompt-er Day in Seoul"><img src="./202309 Prompt-erDayInSeoul/프롬프터데이_임종한_상장.png" width="300"/>
+</th>
+</table>
 <li>2021년 부품 품질 검사 - 부품 스크래치 검사 솔루션
 <table>
 <th>
